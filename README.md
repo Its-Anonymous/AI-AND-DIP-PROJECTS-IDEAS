@@ -1,0 +1,2 @@
+# AI-AND-DIP-PROJECTS-IDEAS
+Based on Python
